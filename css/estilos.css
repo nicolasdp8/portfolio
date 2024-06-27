@@ -76,7 +76,7 @@ p {
 }
 
 .cohete {
-    height: 410px; 
+    height: 410px;
     margin-top: 50px;
     padding-top: 30px;
 }
@@ -89,13 +89,64 @@ p {
     font-size: 17px;
     font-weight: 600px;
 }
-.foto-perfil{
+
+.foto-perfil {
     border-radius: 600px;
     height: 300px;
 }
-#stack-tecnologico {
-    background-color: #E20000;
+
+#stack-tecnologico h2 {
+    color: white;
+    font-size: 24px;
 }
+
+#stack-tecnologico h3 {
+    color: black;
+    font-size: 14px;
+    font-weight: 300px;
+}
+
+#stack-tecnologico {
+    background: linear-gradient(90deg, rgba(125, 7, 7, 1) 0%, rgba(215, 11, 11, 1) 100%);
+}
+
+#stack-tecnologico .tecnologia {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    height: 182px;
+}
+
+#stack-tecnologico .tecnologia img {
+    height: 60px;
+}
+
+#experiencia h2 {
+    font-size: 24px;
+    color: #370a6d;
+    font-weight: 400px;
+}
+
+#experiencia h3 {
+    font-size: 18px;
+    color: #6a6a6a;
+    font-weight: 600px;
+}
+
+#experiencia img {
+    height: 200px;
+}
+
+#experiencia h4 {
+    font-size: 17px;
+    color: #370a6d;
+}
+
+#experiencia h5 {
+    font-size: 14px;
+    color: #6a6a6a;
+}
+
 #contacto footer,
 #inicio footer {
     color: white;
