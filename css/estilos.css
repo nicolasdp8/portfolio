@@ -108,6 +108,7 @@ p {
 
 #stack-tecnologico {
     background: linear-gradient(90deg, rgba(125, 7, 7, 1) 0%, rgba(215, 11, 11, 1) 100%);
+    width: 100%;
 }
 
 #stack-tecnologico .tecnologia {
@@ -145,6 +146,60 @@ p {
 #experiencia h5 {
     font-size: 14px;
     color: #6a6a6a;
+}
+
+#formacion-academica h2{
+    font-size: 24px;
+    color: #E20000;
+    font-weight: 400px;
+}
+
+#formacion-academica h3 {
+    font-size: 18px;
+    color: #6a6a6a;
+    font-weight: 600px;
+}
+
+#formacion-academica h4 {
+    font-size: 17px;
+    color: #E20000;
+}
+
+#formacion-academica h5 {
+    font-size: 14px;
+    color: #6a6a6a;
+}
+
+#formacion-academica img {
+    height: 200px;
+}
+
+#idiomas {
+    background-color: #eee;
+}
+
+#idiomas h1{
+    font-size: 16px;
+    font-weight: 600px;
+}
+
+#idiomas h2 {
+    font-size: 14px;
+    color: #6a6a6a;
+}
+
+#idiomas h3 {
+    font-size: 14px;
+    color: #6a6a6a;
+}
+
+#idiomas h4 {
+    font-size: 14px;
+    color: #6a6a6a;
+}
+
+#idiomas i {
+font-size: 80px;
 }
 
 #contacto footer,
